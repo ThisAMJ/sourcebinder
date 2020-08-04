@@ -1,7 +1,13 @@
-# sourcebinder v1.0
+# SourceBinder v1.1
 This program aims to help you visualise your keyboard bindings in games that use the Source Engine by Valve Software.
 
 It will create a file named `binds.cfg` in the directory of the .exe
+
+<hr>
+
+Please contact me if you find any issues or have any suggestions.
+
+Discord: AMJ#3045
 
 <hr>
 
@@ -38,9 +44,3 @@ For Counter-Strike Global Offensive:
 For Garry's Mod:
 
   `../GarrysMod/garrysmod/cfg/binds.cfg`
-  
-<hr>
-
-Please contact me if you find any issues or have any suggestions.
-
-Discord: AMJ#3045
