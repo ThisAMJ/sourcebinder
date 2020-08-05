@@ -44,3 +44,7 @@ For Counter-Strike Global Offensive:
 For Garry's Mod:
 
   `../GarrysMod/garrysmod/cfg/binds.cfg`
+
+<hr>
+
+Credit to ThoNohT/NohBoard.git for the keyboard template (data/full keyboard.png is a screenshot of NohBoard)
